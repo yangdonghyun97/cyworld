@@ -32,6 +32,12 @@ html, body {
     flex-direction: row;
     align-items: center;
 }
+.video {
+    width: 100%;
+    height: 240px;
+    background-color: #c4c4c4;
+    margin-top: 15px;
+}
 
 .title {
     color: #55B2E4; 
